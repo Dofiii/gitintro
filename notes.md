@@ -53,3 +53,14 @@
    53  git push origin master
    54  touch notes.md
    55  history
+   56  code notes.md
+   57  add notes.md
+   58  git add notes.md
+   59  git commit "history"
+   60  git commit
+   61  cd code
+   62  cd gitintro
+   63  git commit -m "history"
+   64  code notes.md
+   65  git push -u origin master
+   66  history
